@@ -1,0 +1,19 @@
+#headerTop{
+    background-color: red;
+}
+/*This the div selector*/
+div{
+    background-color: red;
+}
+/*This is the class selector*/
+.bg-color{
+    background-color: #FA4E23;
+}
+/*This is class selector*/
+.bg-color{
+    background-color: royalblue;
+    color:white;
+}
+.content{
+    background-image: ;
+}
