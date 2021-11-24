@@ -1,19 +1,91 @@
-#headerTop{
-    background-color: red;
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@sathvikparitala 
+dheerajsk
+/
+edureka-fsd-internship-program
+Public
+2
+32
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+edureka-fsd-internship-program/Module2-CSS/index.css
+@dheerajsk
+dheerajsk Css
+Latest commit d2f450b 3 days ago
+ History
+ 1 contributor
+48 lines (39 sloc)  831 Bytes
+   
+
+/* 1. This is ID Selector */
+#headerTop {
+    background-color: #FA4E23;
+    color: white;
 }
-/*This the div selector*/
-div{
-    background-color: red;
-}
-/*This is the class selector*/
+
+/* 2. This is Tag Selector */
+/* div{
+    background-color: cadetblue;
+    color: white;
+} */
+
+/* 3. THis is class selector */
+
 .bg-color{
     background-color: #FA4E23;
+    color: white;
 }
-/*This is class selector*/
-.bg-color{
-    background-color: royalblue;
-    color:white;
-}
+
+/* Background, height, width */
 .content{
-    background-image: ;
+    height: 120px;
+    width: 120px;
+    background-image: url("https://img.etimg.com/thumb/msid-75176755,width-640,resizemode-4,imgsize-612672/effect-of-coronavirus-on-food.jpg");
 }
+
+/* Border */
+/* margin: top right bottom left */
+.spanPage{
+    border-color: #8c96ab;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 7px;
+    margin: 10px 10px 10px 10px;
+    padding: 4px 9px 4px 9px;
+}
+
+/* Display */
+.divPaginator{
+    display: flex;
+}
+
+/* margin */
+
+.margin-5{
+    margin: 5px;
+}
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
