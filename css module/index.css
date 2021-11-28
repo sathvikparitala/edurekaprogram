@@ -16,6 +16,13 @@
     background-color: #FA4E23;
     color: white;
 }
+.content-panel{
+    background-color: coral;
+    height: 100px;
+    width: 100px;
+    border: 1px solid grey;
+    margin: 20px;
+    {
 
 /* Background, height, width */
 .content{
