@@ -1,18 +1,6 @@
 
+    
 
-.food-menu-container{
-    margin: 10px;
-    padding: 5px 5px 5px 5px;
-    min-height: 300px;
-    min-width: 500px;
-    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
-}
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'poppins',sans-serif;
-}
 nav{
     display: flex;
     width: 100%;
@@ -90,6 +78,13 @@ nav .search_box span ::after{
     z-index: -1;
     transition: 0.3s;
 }
+
+
+
+
+
+
+
 .Breakfast-Places-in-Hyderabad {
     width: 512px;
     height: 51px;
@@ -105,6 +100,43 @@ nav .search_box span ::after{
     color: #60191f;
     
   }
+  .Rectangle-5 {
+    width: 300px;
+    height: 600px;
+    margin: 10px 10px 10px 10px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+    position: absolute;
+   
+  }
+  .Rectangle-5.search_box{
+      width: 200;
+      
+  }
+  
+.Web-1920-6 {
+    width: 700px;
+    height: 20px;
+    padding: 2 2 50px;
+  
+    border-radius: 7px;
+    background-color: #fbfbfb;
+  }
+.food-menu-container{
+    margin: 10px;
+    padding: 5px 5px 5px 5px;
+    min-height: 300px;
+    min-width: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.16);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+    
   
 @media only screen and (max-width:500px){
     .food-menu-container{
@@ -113,14 +145,15 @@ nav .search_box span ::after{
     }
 }
 
-.food-menu-left{
-    width: 20%;
-    padding: 22px;
+.food-menu-right{
+    width: 30px;
+    padding: 55px;
     vertical-align: top;
+    height: 50px;
 }
 
 .food-menu-right{
-    padding: 2px;
+    padding: 50px;
 }
 
 .food-header{
@@ -171,14 +204,7 @@ nav .search_box span ::after{
     font-weight: 500;
 }
 
-  .Rectangle-5 {
-    width: 794px;
-    height: 291px;
-    margin: 27px 154px 34px 45px;
-    padding: 25px 32.6px 20px 35px;
-    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
-    background-color: #fff;
-  }
+  
 
 .food-menu-top{
     border-bottom: 1px solid #dedfe5;
@@ -238,11 +264,3 @@ img{
 .margin-5{
     margin: 10px;
 }
-.Web-1920-6 {
-    width: 1200px;
-    height: 20px;
-    padding: 2 2 50px;
-  
-    border-radius: 7px;
-    background-color: #fbfbfb;
-  }
