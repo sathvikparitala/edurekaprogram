@@ -1,17 +1,17 @@
 .col{
     border: 1px solid #fff;;
     height: 700px;
-    margin: 700px;
-    margin-left: 900px;
+    margin: 100px;
+    margin-left: 100px;
     padding: 10px;
 }
 
 .bf-header{
     margin-left:85px;
     margin-top: 20px;
-    margin-bottom: -50px;
+    margin-bottom: 0px;
     color: #192f60 !important;
-    font-size: 50px;
+    font-size: 100px;
     font-weight: 600;
 }
 
@@ -56,8 +56,8 @@ img{
 }
 
 .card-col{
-    height:50px;
-    padding: 100px 500px;
+    height:500px;
+    padding: 10px 10px;
 }
 
 .shadow{
@@ -67,10 +67,12 @@ img{
 
 .card{
     box-shadow:  1px 1px  rgba(0, 0, 0, 0.16);
-    margin-bottom: 300px;
-    height: 50px;
-    margin-right: 50px;
-    margin-left:10px;
+    margin-bottom: 500px;
+    height: 500px;
+    margin-right: 10px;
+    margin-left:600px;
+    width: 500px;
+    text-align: start;
 }
 
 .h2{
@@ -85,10 +87,6 @@ img{
 }
 
 
-
-
-
-}
 
 
 
@@ -124,7 +122,7 @@ img{
     color: #192f60;
     margin: 9px;
     font-family: monospace;
-    font-size: 30px;
+    font-size: 600px;
     font-weight: 600;
 }
 
@@ -271,8 +269,8 @@ img{
 }
 
 .bf-header{
-    margin-left:100px;
-    margin-top: 40px;
+    margin-left:600px;
+    margin-top: 400px;
     color: #192f60 !important;
     font-size: 36px;
     font-weight: 600;
@@ -334,10 +332,10 @@ img{
     font-weight: 600;
 }
 
-.location{
-    color: #192f60;
-    font-size: 12px;
-}
+
+
+
+
 
 
 
